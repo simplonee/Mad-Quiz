@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is 2 + 2?",
+        "options": {"a": "3", "b": "4", "c": "5", "d": "6"},
+        "answer": "b"
+    },
+    {
+        "question": "What color is the sky on a clear day?",
+        "options": {"a": "Blue", "b": "Green", "c": "Red", "d": "Yellow"},
+        "answer": "a"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": {"a": "Berlin", "b": "Madrid", "c": "Paris", "d": "Rome"},
+        "answer": "c"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {"a": "Mars", "b": "Venus", "c": "Jupiter", "d": "Saturn"},
+        "answer": "a"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": {"a": "6", "b": "8", "c": "4", "d": "10"},
+        "answer": "b"
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": {"a": "Lion", "b": "Tiger", "c": "Elephant", "d": "Leopard"},
+        "answer": "a"
+    },
+    {
+        "question": "What is 5 - 3?",
+        "options": {"a": "2", "b": "3", "c": "1", "d": "0"},
+        "answer": "a"
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "options": {"a": "Atlantic", "b": "Indian", "c": "Arctic", "d": "Pacific"},
+        "answer": "d"
+    },
+    {
+        "question": "Which fruit is yellow and curved?",
+        "options": {"a": "Banana", "b": "Apple", "c": "Orange", "d": "Grapes"},
+        "answer": "a"
+    },
+    {
+        "question": "What is 10 ÷ 2?",
+        "options": {"a": "2", "b": "5", "c": "10", "d": "20"},
+        "answer": "b"
+    },
+    {
+        "question": "Which gas do humans breathe in to survive?",
+        "options": {"a": "Oxygen", "b": "Carbon dioxide", "c": "Nitrogen", "d": "Hydrogen"},
+        "answer": "a"
+    },
+    {
+        "question": "What is the opposite of hot?",
+        "options": {"a": "Cold", "b": "Warm", "c": "Cool", "d": "Boiling"},
+        "answer": "a"
+    },
+    {
+        "question": "Which day comes after Monday?",
+        "options": {"a": "Sunday", "b": "Tuesday", "c": "Wednesday", "d": "Thursday"},
+        "answer": "b"
+    },
+    {
+        "question": "Which shape has 3 sides?",
+        "options": {"a": "Triangle", "b": "Square", "c": "Circle", "d": "Rectangle"},
+        "answer": "a"
+    },
+    {
+        "question": "What is 3 x 3?",
+        "options": {"a": "6", "b": "9", "c": "12", "d": "8"},
+        "answer": "b"
+    },
+    {
+        "question": "Which animal says 'Meow'?",
+        "options": {"a": "Dog", "b": "Cat", "c": "Cow", "d": "Sheep"},
+        "answer": "b"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": {"a": "5", "b": "6", "c": "7", "d": "8"},
+        "answer": "c"
+    },
+    {
+        "question": "Which is the hottest planet in our solar system?",
+        "options": {"a": "Mercury", "b": "Venus", "c": "Mars", "d": "Jupiter"},
+        "answer": "b"
+    },
+    {
+        "question": "What do bees make?",
+        "options": {"a": "Milk", "b": "Honey", "c": "Wax", "d": "Sugar"},
+        "answer": "b"
+    },
+    {
+        "question": "Which number comes after 9?",
+        "options": {"a": "8", "b": "10", "c": "11", "d": "12"},
+        "answer": "b"
+    }
+]
